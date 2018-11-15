@@ -7,16 +7,16 @@
 */
 
 /* The title on the navigation bar of the Scanning screen. */
-"wescan.scanning.title" = "Scanning";
+"wescan.scanning.title" = "סורק";
 
 /* The "Next" button on the right side of the navigation bar on the Edit screen. */
-"wescan.edit.button.next" = "Next";
+"wescan.edit.button.next" = "הבא";
 
 /* The title on the navigation bar of the Edit screen. */
-"wescan.edit.title" = "Edit Scan";
+"wescan.edit.title" = "ערוך סריקה";
 
 /* The "Done" button on the right side of the navigation bar on the Review screen. */
-"wescan.review.button.done" = "Done";
+"wescan.review.button.done" = "סיים";
 
 /* The title on the navigation bar of the Review screen. */
-"wescan.review.title" = "Review";
+"wescan.review.title" = "בדוק";
